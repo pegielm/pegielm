@@ -24,4 +24,3 @@
 
 [![pegielm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pegielm&layout=compact&theme=monokai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![pegielm's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegielm&theme=monokai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
