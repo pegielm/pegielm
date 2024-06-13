@@ -1,9 +1,8 @@
 ### Hi 
 
 
-> click on image 
+> [my page](https://pegielm.github.io/)
 
-[![pfp](https://s.gravatar.com/avatar/6efa098a458aeec3affbd8b4728027a7?s=200&d=mm)](https://pegielm.github.io/)
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
