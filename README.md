@@ -1,7 +1,7 @@
 ### Hi 
 
 
-> click on image (about me, ctf writeups and more) 
+> click on image (about me, ctf writeups and more) or here  -> [pegielm.github.io](https://pegielm.github.io/)
 
 [![my page](https://i.imgur.com/xyNfXGo.jpg)](https://pegielm.github.io/)
 
