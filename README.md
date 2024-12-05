@@ -25,3 +25,9 @@
 
 [![pegielm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pegielm&layout=compact&theme=monokai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+> my greatest work
+
+rickroll oneliner in python that can fit in discord bio
+```
+p=bytes.fromhex;getattr(__builtins__,p('65786563').decode())(p('66726f6d2077656262726f7773657220696d706f7274206f70656e3b6f70656e282768747470733a2f2f74696e792e706c2f683278766b2729'))
+```
