@@ -1,16 +1,19 @@
 ### Hi 
 
 
-> click on image (about me, ctf writeups and more) or here  -> [pegielm.github.io](https://pegielm.github.io/)
+> about me, ctf writeups here  -> [pegielm.github.io](https://pegielm.github.io/)
+
+or click on cat 
 
 [![my page](https://i.imgur.com/xyNfXGo.jpg)](https://pegielm.github.io/)
+
 
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -21,11 +24,7 @@
 ![KFC](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
-> stats
-
-[![pegielm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pegielm&layout=compact&theme=monokai&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-> my greatest work
+> cool stuff
 
 rickroll oneliner in python that can fit in discord bio
 ```
