@@ -3,11 +3,6 @@
 
 > about me, ctf writeups here  -> [pegielm.github.io](https://pegielm.github.io/)
 
-or click on cat 
-
-[![my page](https://i.imgur.com/xyNfXGo.jpg)](https://pegielm.github.io/)
-
-
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
